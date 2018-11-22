@@ -1,0 +1,4 @@
+The following code is to be run using Apache spark.
+Install Apache spark and then launch spak shell
+In spark shell using command ":load <path-to-file>" compile the code
+and then run it.
